@@ -1,0 +1,31 @@
+{
+  "button": {
+    "about": "Về",
+    "back": "Quay lại",
+    "go": "Đi",
+    "home": "Khởi đầu",
+    "toggle_langs": "Thay đổi ngôn ngữ"
+  },
+  "intro": {
+    "desc": "Ý kiến cá nhân Vite Template để bắt đầu",
+    "dynamic-route": "Bản giới thiệu về dynamic route",
+    "hi": "Hi, {name}!",
+    "aka": "Còn được biết là",
+    "whats-your-name": "Tên bạn là gì?",
+    "not-found": "Không tìm thấy"
+  },
+  "login": {
+    "input": {
+      "username": "Tên người dùng",
+      "password": "Mật khẩu"
+    },
+    "button": {
+      "go": "Đăng nhập"
+    }
+  },
+  "error": {
+    "not-found": "Không tìm thấy",
+    "maintenance": "Bảo trì",
+    "forbidden": "Không có quyền"
+  }
+}
